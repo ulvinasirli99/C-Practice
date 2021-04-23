@@ -7,25 +7,25 @@ using namespace std;
 int main() {
 	
 	
-//	int list[5] = {2,4,5,6,7,};
-//	
-//	int pList [] = {12,34,56,43};
-//	
-//	cout << list[1];
+	int list[5] = {2,4,5,6,7,};
+	
+	int pList [] = {12,34,56,43};
+	
+	cout << list[1];
 
 
      int dizi [5];
 
      int result = 0;
-//     
-//     for(int a = 0;a<5; a++)
-//     {
-//     	
-//        cin >> dizi [a];
-//    
-//	 }
-//	 
-//	 cout << dizi [3];
+     
+     for(int a = 0;a<5; a++)
+     {
+     	
+        cin >> dizi [a];
+    
+	 }
+	 
+	 cout << dizi [3];
 	 
 	 
 	 for(int a = 0; a < 5; a++)
